@@ -142,13 +142,13 @@ If you require further assistance contact the support team @ [Discord](https://d
 ***
 
 ***step 4***
-* After your transaction confirms, go to the debug console within the wallet 
+* Wait for your transaction to have 15 confirmations, then go to the debug console within the wallet. 
 
 ![Example-console](https://i.imgur.com/koNTH4J.png)
 ***
 
 ***Step 5***
-* Type the command below and press enter 
+* Type the command below and press enter.
 
 `masternode outputs` 
 
@@ -163,7 +163,7 @@ If you require further assistance contact the support team @ [Discord](https://d
 # Section E: Connecting & Starting the masternode 
 
 ***Step 1***
-* Go to the tools tab within the wallet and click open "masternode configuration file" 
+* Go to the tools tab within the wallet and click open "masternode configuration file".
 ![Example-create](https://i.imgur.com/sUDlyxV.png)
 ***
 
@@ -181,7 +181,7 @@ Click "File Save"
 ***
 
 ***Step 3***
-* Close out of the wallet and reopen Wallet
+* Close out of the wallet and reopen Wallet.
 *Open the Debug Console
 * Type the command below and press Enter
 
