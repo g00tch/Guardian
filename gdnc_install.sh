@@ -265,6 +265,7 @@ function important_information() {
  echo -e "${BLUE}================================================================================================================================${NC}"
  echo -e "${RED}Donations are not expected, but I did just save you a bunch of time :D${NC}"
  echo -e "${BLUE}================================================================================================================================${NC}"
+ echo -e "${YELLOW}$COIN_NAME Wallet: GbKvvSnDm2HFqrKDFvXE5GAjjvBoeP4snL${NC}"
  echo -e "${YELLOW}BTC Wallet: 1NcGHPgUQ6mkB1h8HLj9HceuL8uJEKnJ2a${NC}"
  echo -e "${BLUE}================================================================================================================================${NC}"
  
